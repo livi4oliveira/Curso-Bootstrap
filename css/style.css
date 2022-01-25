@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.navbar {
+    background-color: #EBFF85
+}
+.quemsomos {
+    background-color: #FFD685;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: #FFD685
+    ;
+}
+.servicos{
+    background-color:#FFD685 ;
+}
+.col-md-4{
+    width: 200px;
+}
+
+.comida2, .comida3, .comida4{
+    border-radius: 50%;
+    width: 50%;
+    border-color: #EBFF85;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+}
